@@ -5,11 +5,13 @@
         
           width: 4%;
           height: 0;
-          border: 5px dotted rgba(139, 139, 139, 0.438);
+          border: 5px dotted rgba(139, 139, 139, 0.925);
           border-bottom: none;
           border-left: none;
           border-right: none;  
         }
         h1{color: rgba(0, 0, 0, 0.623);}
         h3{color: rgb(51, 56, 61);}
+        
+        
     
